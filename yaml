@@ -1,0 +1,14 @@
+
+---
+
+## **🔧 Setup & Installation**
+### **1️⃣ Prerequisites**
+Ensure you have the following installed on your system:
+- **Docker** (Installed on Windows with Ubuntu Terminal)
+- **Ubuntu Terminal** (Running inside Windows)
+- **A Code Editor** (VS Code, Nano, etc.)
+
+### **2️⃣ Clone the Repository**
+```sh
+git clone https://github.com/your-username/docker-ubuntu-nginx.git
+cd docker-ubuntu-nginx
